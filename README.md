@@ -1,2 +1,2 @@
 # R-Programming
-Coursera course affiliated with Johns Hopkins University  
+Coursera Course affiliated with Johns Hopkins University  
